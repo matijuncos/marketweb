@@ -217,8 +217,8 @@ color: white;
   
   .lupa {
 	background-image: url(../assets/lupa.png);
-	width: 6vw;
-	height: 12.1vh;
+	width: 6%;
+	height: 12%;
 	background-repeat: no-repeat;
 	background-size: cover;
 	position: absolute;

@@ -65,7 +65,8 @@ const SignIn = (props) => {
             <div className="formularioSignIn">
                 <h2>Acceder</h2>
                 <div className="text">
-                    <h4>Iniciá sesión con tu cuenta</h4>
+                    <h4>Iniciá sesión con tu cuenta.</h4>
+                    <h4>Y continua disfrutando de los beneficios que tenemos para vos. </h4>
                 </div>
 
                 <div className="inputDiv">

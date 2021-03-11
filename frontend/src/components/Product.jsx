@@ -51,7 +51,7 @@ const Product = ({product,addProductShoppingCart,shoppingCart}) =>{
                             const ratingValue = i + 1
                           
                             return (    
-                                    <BsFillStarFill key={i} color={(ratingValue <= product.rating) ? '#ffc107' : '#8C8C8C'} />
+                                    <BsFillStarFill  color={(ratingValue <= product.rating) ? '#ffc107' : '#8C8C8C'} />
                             )
               })}
           </div>
