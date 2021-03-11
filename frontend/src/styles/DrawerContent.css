@@ -89,6 +89,8 @@
     width: 4vw;
     height: 4vw;
     border-radius: 50%;
+    min-width: 40px;
+    min-height: 40px;
 }
 
 /*Manage Product*/
